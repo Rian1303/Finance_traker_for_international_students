@@ -84,6 +84,7 @@ _You can add screenshots here showing the main interface, transaction form, and 
 
 ## 🤝 Contributing
 
+Pull requests are welcome! If you find a bug or have a suggestion, feel free to [open an issue](https://github.com/Rian1303/Finance_traker_for_international_students).
 
 
 ---
